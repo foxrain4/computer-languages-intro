@@ -1,8 +1,10 @@
 ✅ DOs
 
 Use brighter font, the background page of https://www.mazeofdragons.com/ is dark or black
-blue links are too dark as well, use white or bright links
 Do not use broken code icon, if broken, skip it instead
+
+blue links are too dark as well, use white or bright links
+Add a hover effect with a soft yellow (#ffe066) or any bright colours
 
 Use centered, narrow text blocks
 Keep paragraphs easy to read with a clean, focused layout.
